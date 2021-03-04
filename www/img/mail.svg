@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="53.622223mm"
+   height="53.622223mm"
+   viewBox="0 0 53.622223 53.622223"
+   version="1.1"
+   id="svg851"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="mail.svg">
+  <defs
+     id="defs845" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="845.61906"
+     inkscape:cy="-130.09524"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata848">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(284.59088,-60.790079)">
+    <g
+       transform="matrix(0.11033379,0,0,0.11033379,-295.03746,51.268187)"
+       id="g12820"
+       style="display:inline;stroke-width:15.34736824;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\pioup\Documents\Formation\Graphisme\projet\icone_contact.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12807"
+         d="M 337.68164,86.300781 A 243,243 0 0 0 94.681641,329.30078 a 243,243 0 0 0 242.999999,243 243,243 0 0 0 243,-243 243,243 0 0 0 -243,-242.999999 z M 209.46094,227.14453 h 256.4414 c 12.05398,0 21.75782,22.93374 21.75782,51.41992 v 101.47071 c 0,28.48618 -9.70384,51.41992 -21.75782,51.41992 h -256.4414 c -12.05397,0 -21.75781,-22.93374 -21.75782,-51.41992 V 278.56445 c 0,-28.48618 9.70385,-51.41992 21.75782,-51.41992 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15.34736824;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path12703-7"
+         d="m 382.45784,329.59261 22.39178,25.16462 67.16764,75.48519 H 337.68198 l -134.33529,1e-5 67.16765,-75.48519 c 7.32754,-8.23495 14.65509,-16.46989 21.98265,-24.70483"
+         inkscape:transform-center-y="-25.161736"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15.34736824;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path12703"
+         d="m 471.6258,229.14499 -66.97191,75.48519 c -16.70692,18.83068 -33.41388,37.66133 -50.1208,56.492 -16.85625,19.68146 -16.85625,19.62595 -33.78467,-0.0929 -16.67945,-18.79969 -33.35891,-37.59939 -50.03836,-56.39909 L 203.73814,229.145 h 133.94383 z"
+         inkscape:transform-center-y="25.161735"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15.34736824;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
